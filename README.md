@@ -3,6 +3,7 @@
 This project is a demonstration of a dialogue agent system that implements human-like memory processes, as described in the following research papers:
 
 https://dl.acm.org/doi/fullHtml/10.1145/3613905.3650839
+
 https://arxiv.org/abs/2404.00573
 
 ## Setup
