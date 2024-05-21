@@ -1,0 +1,10 @@
+.git
+.vscode
+assets/*
+discard/*
+**/pyvenv.cfg
+**/venv/
+**/__pycache__/
+**/local_cache/
+**/*.DS_Store
+**/*.env
